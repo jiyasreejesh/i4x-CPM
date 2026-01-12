@@ -25,7 +25,7 @@ This project is a collaboration with UC San Diego Capital Project Management (CP
      - Large: > $70M
      - Small: $1M–$5M
      - Medium: Data-driven range between small and large
-   - Recommend alternative thresholds based on observed distributions
+   
 
 4. **Summary Statistics**
    - Total number of projects
